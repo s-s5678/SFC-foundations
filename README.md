@@ -23,7 +23,7 @@ SFC has set up two more units (JALANDHAR,MUMBAI)✨
 <h1 align="center">GitHub Page Deployment can be found <a href="https://himanshu007-creator.github.io/SFC-foundations/">Here</a></h1>&nbsp;
 <hr>
 
-<h2 >Objectives :</h2>
+<h2 >Objectives!</h2>
 <ul>
 <li>Make a Website for the NGO.</li>
 <li>Design new UI / UX </li>
